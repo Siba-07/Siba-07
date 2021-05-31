@@ -1,8 +1,14 @@
 ### Hi there 👋
- 
-Jump to my homepage [https://siba-07.github.io/](here).
 
-![counter](https://[https://en8277xoi4dvofj.m.pipedream.net].m.pipedream.net)
+<p style="text-align:center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Siba-07&color=blueviolet">
+</a>
+<p>
+
+ 
+Jump to my homepage [here](https://siba-07.github.io/).
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
