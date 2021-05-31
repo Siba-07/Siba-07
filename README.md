@@ -1,4 +1,12 @@
 ### Hi there 👋
+ 
+Jump to my homepage [https://siba-07.github.io/](here).
+
+![counter](https://[https://en8277xoi4dvofj.m.pipedream.net].m.pipedream.net)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+
+
 
 <!--
 **Siba-07/Siba-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
