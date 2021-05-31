@@ -10,8 +10,7 @@
 Jump to my homepage [here](https://siba-07.github.io/).
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Siba-07&show_icons=true)
 
 
 <!--
