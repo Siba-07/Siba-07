@@ -10,8 +10,8 @@
 Jump to my homepage [here](https://siba-07.github.io/).
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Siba-07&show_icons=true)
-
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Siba-07&show_icons=true)
+ -->
 
 <!--
 **Siba-07/Siba-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
