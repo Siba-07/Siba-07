@@ -7,7 +7,7 @@
 <p>
 
  
-Jump to my homepage [here](https://siba-07.github.io/).
+Jump to my homepage [here](https://siba-07.github.io/). I am too lazy to update my homepage, so you will be meeting Sibasis from two years ago. To know the current me please drop a mail xD.
 
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Siba-07&show_icons=true)
